@@ -7,3 +7,8 @@ say something
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+### Task list
+- [ ] List syntax is required
+- [ ] This item is complete
+- [ ] This item is not complete
+- [ ] Turn on Github pages
